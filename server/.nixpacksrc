@@ -1,0 +1,4 @@
+providers = ["node"]
+
+[node]
+version = "22"
